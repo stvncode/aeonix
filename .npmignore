@@ -1,0 +1,6 @@
+node_modules
+src
+.eslintrc
+.prettierrc
+tsconfig.json
+vite.config.ts
