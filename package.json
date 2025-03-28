@@ -1,6 +1,6 @@
 {
   "name": "aeonix",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.es.js",
@@ -74,6 +74,7 @@
     "lodash": "^4.17.21",
     "lucide-react": "^0.447.0",
     "next-themes": "^0.4.4",
+    "postcss-cli": "^11.0.1",
     "react-day-picker": "8.10.1",
     "react-hook-form": "^7.54.1",
     "react-resizable-panels": "^2.1.7",
